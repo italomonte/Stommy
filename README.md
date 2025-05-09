@@ -58,10 +58,7 @@ Para dúvidas, sugestões ou feedbacks, entre em contato com a equipe de desenvo
 
 > “Seu estômago merece” — **Stommy**
 
-![PT5](https://github.com/user-attachments/assets/07b9011c-92a6-4836-a40d-cba313f729d7)
-![PT4](https://github.com/user-attachments/assets/7d79a6be-31ac-4efd-b8fe-fa950e2c8fbb)
-![PT3](https://github.com/user-attachments/assets/f5d1583c-6495-4411-a5f2-b3dc57da4f1e)
-![PT2](https://github.com/user-attachments/assets/367d299d-0038-4310-aacb-d8d029c1d879)
-![PT1](https://github.com/user-attachments/assets/815f8ad9-f528-45ca-8da5-3b88b503f9ac)
+
+![StommyApp2 001](https://github.com/user-attachments/assets/64ab7e31-1459-4fae-b906-26768d475f23)
 
 
