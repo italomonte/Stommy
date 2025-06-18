@@ -1,6 +1,6 @@
 # 🌱 Stommy – Seu aliado contra a gastrite e o refluxo
 
-**Stommy** é um aplicativo gamificado desenvolvido com foco em pessoas que convivem com gastrite crônica e/ou refluxo gastroesofágico. Com ele, o usuário embarca em uma jornada personalizada de desafios que incentivam a abandonar hábitos e alimentos prejudiciais à saúde gástrica — e substituí-los por alternativas mais saudáveis.
+**Stommy** é um aplicativo gamificado desenvolvido em equipe (2 desenvolvedores e 1 designer) com foco em pessoas que convivem com gastrite crônica e/ou refluxo gastroesofágico. Com ele, o usuário embarca em uma jornada personalizada de desafios que incentivam a abandonar hábitos e alimentos prejudiciais à saúde gástrica — e substituí-los por alternativas mais saudáveis.
 
 > Este projeto foi desenvolvido em colaboração com **Ana Liz Ribeiro** e **Luna Printes**.
 
@@ -47,12 +47,9 @@ Para dúvidas, sugestões ou feedbacks, entre em contato com a equipe de desenvo
 
 ---
 
-## 🧩 Tecnologias utilizadas
+## 🧩 Competências utilizadas
 
-- Swift + SwiftUI
-- SpriteKit + SceneKit (gamificação)
-- Apple App Store (distribuição)
-- Notion (documentação)
+- Swift, SwiftUI, SwiftData, MVVM, Clean Architecture, Git, GitHub, XCode, entre outras.
 
 ---
 
