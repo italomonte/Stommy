@@ -33,7 +33,7 @@ O Stommy tem como missão principal **melhorar a qualidade de vida** das pessoas
 ## 📲 Disponibilidade
 
 - 📱 Disponível para **iOS 17.5 ou superior**
-- 🔗 **[Baixe agora na App Store](#)** *(em breve link definitivo)*
+- 🔗 **[Baixe agora na App Store](#https://apps.apple.com/br/app/stommy/id6737520437)** 
 - 🔜 Versão para mais dispositivos em desenvolvimento
 
 ---
