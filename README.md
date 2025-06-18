@@ -1,61 +1,60 @@
-# 🌱 Stommy – Seu aliado contra a gastrite e o refluxo
+# 🌱 Stommy – Your ally against gastritis and acid reflux
 
-**Stommy** é um aplicativo gamificado desenvolvido em equipe (2 desenvolvedores e 1 designer) com foco em pessoas que convivem com gastrite crônica e/ou refluxo gastroesofágico. Com ele, o usuário embarca em uma jornada personalizada de desafios que incentivam a abandonar hábitos e alimentos prejudiciais à saúde gástrica — e substituí-los por alternativas mais saudáveis.
+**Stommy** is a gamified app developed by a team of 2 developers and 1 designer, focused on helping people who live with chronic **gastritis** and/or **gastroesophageal reflux disease (GERD)**. Through a personalized journey of challenges, the app encourages users to gradually abandon harmful habits and foods — and replace them with healthier alternatives.
 
-> Este projeto foi desenvolvido em colaboração com **Ana Liz Ribeiro** e **Luna Printes**.
-
----
-
-## 🎯 Objetivo
-
-O Stommy tem como missão principal **melhorar a qualidade de vida** das pessoas com problemas gástricos por meio de pequenos passos diários, guiados por uma experiência leve, interativa e motivadora.
+> This project was developed in collaboration with **Ana Liz Ribeiro** and **Luna Printes**.
 
 ---
 
-## ✨ Funcionalidades principais
+## 🎯 Purpose
 
-- ✅ **Trilha personalizada de desafios** baseada nos hábitos do usuário;
-- 🥦 **Sugestões de hábitos saudáveis** para substituir práticas que agravam os sintomas;
-- 🕹️ **Gamificação** para engajar o usuário de forma divertida e motivadora;
-- 🎯 **Adaptação à dificuldade**: respeita o tempo de cada pessoa para mudar hábitos.
+Stommy's mission is to **improve the quality of life** for people dealing with gastric issues through small daily steps, guided by a light, interactive, and motivating experience.
 
 ---
 
-## 🧠 Por que usar o Stommy?
+## ✨ Key Features
 
-- Vai além do rastreamento de hábitos: **oferece orientação, motivação e alternativas saudáveis**;
-- Promove **mudança real de comportamento** focada na saúde gástrica;
-- Desenvolvido especialmente para **quem vive com gastrite ou refluxo**;
-- Testado por usuários reais, com base em **feedback contínuo**.
-
----
-
-## 📲 Disponibilidade
-
-- 📱 Disponível para **iOS 17.5 ou superior**
-- 🔗 **[Baixe agora na App Store](https://apps.apple.com/br/app/stommy/id6737520437)** 
-- 🔜 Versão para mais dispositivos em desenvolvimento
+- ✅ **Personalized challenge path** based on the user's habits;
+- 🥦 **Healthy habit suggestions** to replace behaviors that worsen symptoms;
+- 🕹️ **Gamification** to keep users engaged in a fun and motivating way;
+- 🎯 **Adaptive difficulty**: respects each user’s pace when changing habits.
 
 ---
 
-## 📬 Contato
+## 🧠 Why use Stommy?
 
-Para dúvidas, sugestões ou feedbacks, entre em contato com a equipe de desenvolvimento:
+- Goes beyond simple habit tracking: **offers guidance, motivation, and healthy alternatives**;
+- Promotes **real behavior change** focused on gastric health;
+- Specifically designed for those **living with gastritis or acid reflux**;
+- Tested by real users with **continuous feedback** guiding improvements.
+
+---
+
+## 📲 Availability
+
+- 📱 Available for **iOS 17.5 or later**
+- 🔗 **[Download now on the App Store](https://apps.apple.com/br/app/stommy/id6737520437)**
+- 🔜 Versions for other platforms are in development
+
+---
+
+## 📬 Contact
+
+For questions, suggestions, or feedback, get in touch with the development team:
 
 - 📧 **stommystudios@gmail.com**
-- 📄 [Termos de Serviço e Política de Privacidade](https://stommyappterms.notion.site/Terms-of-Service-and-Privacy-Policy-Stommy-13bd7006e1f480c4a844c29ce369463a)
+- 📄 [Terms of Service and Privacy Policy](https://stommyappterms.notion.site/Terms-of-Service-and-Privacy-Policy-Stommy-13bd7006e1f480c4a844c29ce369463a)
 
 ---
 
-## 🧩 Competências utilizadas
+## 🧩 Technologies & Skills
 
-- Swift, SwiftUI, SwiftData, MVVM, Clean Architecture, Git, GitHub, XCode, entre outras.
+- Swift, SwiftUI, SwiftData  
+- MVVM, Clean Architecture  
+- Git, GitHub, Xcode, among others
 
 ---
 
-> “Seu estômago merece” — **Stommy**
+> “Your stomach deserves it.” — **Stommy**
 
-
-![StommyApp2 001](https://github.com/user-attachments/assets/64ab7e31-1459-4fae-b906-26768d475f23)
-
-
+![StommyApp Screenshot](https://github.com/user-attachments/assets/64ab7e31-1459-4fae-b906-26768d475f23)
